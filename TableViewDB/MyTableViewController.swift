@@ -191,12 +191,12 @@ class MyTableViewController: UIViewController, UITableViewDataSource, UITableVie
         let pic = UIImage(named: "Pikachu")?.jpegData(compressionQuality: 0.8)
         // 準備離線資料集
         arrTable = [
-            Student(no: "S199", name: "王柏融", gender: 1, picture: pic, phone: "199199199", address: "桃園市中壢區環中東路561號", email: "tama@ham.com", myclass: "打擊練習班"),
-            Student(no: "S299", name: "餓久久", gender: 0, picture: pic, phone: "299299299", address: "桃園市中壢區環中東路561號", email: "299@ham.com", myclass: "打飯練習班"),
-            Student(no: "S557", name: "伍五七", gender: 0, picture: pic, phone: "557557557", address: "桃園市中壢區環中東路561號", email: "ccn@ham.com", myclass: "打擊練習班"),
-            Student(no: "S666", name: "陸六六", gender: 1, picture: pic, phone: "666666666", address: "桃園市中壢區環中東路561號", email: "six3@ham.com", myclass: "打擊練習班"),
-            Student(no: "S777", name: "七妹", gender: 0, picture: pic, phone: "777777777", address: "桃園市中壢區環中東路561號", email: "seven3@ham.com", myclass: "打擊練習班"),
-            Student(no: "S888", name: "八哥", gender: 1, picture: pic, phone: "888888888", address: "桃園市中壢區環中東路561號", email: "888@ham.com", myclass: "打擊練習班"),
+            Student(no: "S199", name: "王柏融", gender: 1, picture: pic, phone: "0912345678", address: "桃園市中壢區環中東路561號", email: "tama@ham.com", myclass: "打擊練習班"),
+            Student(no: "S43", name: "宋家豪", gender: 1, picture: pic, phone: "0912345678", address: "桃園市中壢區環中東路561號", email: "299@ham.com", myclass: "投球練習班"),
+            Student(no: "S39", name: "吳念庭", gender: 1, picture: pic, phone: "0912345678", address: "桃園市中壢區環中東路561號", email: "ccn@ham.com", myclass: "打擊練習班"),
+            Student(no: "S47", name: "張奕", gender: 1, picture: pic, phone: "0912345678", address: "桃園市中壢區環中東路561號", email: "six3@ham.com", myclass: "投球練習班"),
+            Student(no: "S017", name: "王彥程", gender: 1, picture: pic, phone: "0912345678", address: "桃園市中壢區環中東路561號", email: "seven3@ham.com", myclass: "投球練習班"),
+            Student(no: "S31", name: "林威助", gender: 1, picture: pic, phone: "0912345678", address: "桃園市中壢區環中東路561號", email: "888@ham.com", myclass: "海外發展練習班"),
 
         ]
         
