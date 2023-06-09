@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  TableViewDB
+
+  Created by RyanChiang on 2023/6/6.
+  
+*/
+
+"CFBundleDisplayName" = "俺のデータベース";
+"buttonDone" = "完了";
+"buttonEdit" = "編集";
+"NSCameraUsageDescription" = "カメラを使って写真を変更する";

@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  TableViewDB
+
+  Created by RyanChiang on 2023/6/6.
+  
+*/
+
+"buttonDone" = "完了";
+"buttonEdit" = "編集";
